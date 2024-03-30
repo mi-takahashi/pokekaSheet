@@ -19,7 +19,7 @@ INPUT_GSPREAD_ID = '1lG_M08B4vg9zn-wyEcmbEtgaDMQfGyY4VklHh4oD8wg'
 # 入力用ワークシート名
 INPUT_WORK_SHEET_NAME = 'source'
 # 大会ID一覧ファイル
-COMPETITION_ID_FILE = '/Users/minakungooner/Desktop/python/pokemon_card/competition_id.txt'
+COMPETITION_ID_FILE = '/home/pokekadb/www/web/pokekaSheet/pokekaSheet/python/competition_id.txt'
 # 最大追記数
 MAX_WRITE_COUNT = 20
 

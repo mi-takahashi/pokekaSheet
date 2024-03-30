@@ -5,7 +5,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 class GoogleCloudPlatform:
 
     # GCPの認証サービスアカウントキーが記入されているjsonファイル
-    GSPREAD_SERVICE_ACCOUNT = '/Users/minakungooner/Desktop/python/pokemon-card-league-f1d86294eaa3.json'
+    GSPREAD_SERVICE_ACCOUNT = '/home/pokekadb/www/web/pokekaSheet/pokekaSheet/pokemon-card-league-f1d86294eaa3.json'
 
     __instance = None
     __client = None
